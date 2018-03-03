@@ -16,15 +16,11 @@ Implementation of Intelligent Scissors
 
 - Result
 
-
   -![](https://github.com/wuzhe94/6000c_intelligent_scissors/blob/master/output/logo.png)
 
-
-  -![](https://github.com/wuzhe94/6000c_intelligent_scissors/blob/master/output/lenna.png)
-  
+  -![](https://github.com/wuzhe94/6000c_intelligent_scissors/blob/master/output/lenna.png)  
   
   -![](https://github.com/wuzhe94/6000c_intelligent_scissors/blob/master/output/Avatar.png)
-
 
 - TODO
   - Improve the efficienty of the code.
